@@ -32,7 +32,7 @@ class _UserState extends State<UserData> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          title: Text("이용자 데이터 조회")
+          title: Text("푸드뱅크 이용자 데이터 조회")
       ),
       body: Column(
         children: [
